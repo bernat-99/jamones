@@ -1,0 +1,63 @@
+% Lengua, codificación, tipografía y márgenes ETSII
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[a4paper,margin=25mm]{geometry} % 25 mm en todos los márgenes
+\usepackage{newtxtext,newtxmath}     % Times 12 pt
+\usepackage{microtype}
+
+\addto\captionsspanish{\renewcommand{\contentsname}{\MakeUppercase{ÍNDICE GENERAL}}}
+\addto\captionsspanish{\renewcommand{\listfigurename}{ÍNDICE DE FIGURAS}}
+\addto\captionsspanish{\renewcommand{\listtablename}{ÍNDICE DE TABLAS}}
+
+% Interlineado y renglón libre
+\usepackage{setspace}
+\singlespacing
+\setlength{\parskip}{\baselineskip}
+
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=black}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf}
+
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\mdseries} 
+  {\chaptername~\thechapter}{1ex}{\MakeUppercase}
+
+\titleformat{\section}
+  {\normalfont\Large\mdseries} 
+  {\thesection.}{0.8em}{}
+
+\titleformat{\subsection}
+  {\normalfont\large\mdseries}
+  {\thesubsection.}{0.6em}{}
+
+
+% Encabezados y pies
+\input{config/estilos}
+
+% Bibliografía IEEE con biblatex
+\usepackage[
+  backend=biber,
+  style=ieee,
+  sorting=none
+]{biblatex}
+\addbibresource{bib/bibliografia.bib}
+\DefineBibliographyStrings{spanish}{bibliography = {BIBLIOGRAFÍA}}
+
+% Comandos de portada
+\newcommand{\tfgtitle}{Pasaporte Digital de Producto para el Jamón Ibérico basado en Blockchain e IoT}
+\newcommand{\authorname}{Pablo Bernat Gallardo}
+\newcommand{\tutoruno}{Joaquín Ordieres Meré}
+\newcommand{\tutordos}{Jaime Señor Sánchez}
+\newcommand{\grado}{Grado en Ingeniería en Tecnologías Industriales (Especialidad de Organización Industrial)}
+\newcommand{\escuela}{Escuela Técnica Superior de Ingenieros Industriales (UPM)}
+\newcommand{\convocatoria}{Convocatoria Noviembre 2025}

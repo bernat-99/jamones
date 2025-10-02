@@ -1,0 +1,15 @@
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Encabezados
+\fancyhead[LE]{\leftmark} %pares: capítulo a la izquierda
+\fancyhead[RO]{\nouppercase{\rightmark}} %impares: título abreviado a la derecha
+
+% Pies
+\fancyfoot[LE]{\thepage}
+\fancyfoot[RE]{\escuela}
+\fancyfoot[LO]{\authorname}
+\fancyfoot[RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}

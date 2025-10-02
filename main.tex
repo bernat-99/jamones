@@ -1,0 +1,50 @@
+\documentclass[12pt,twoside,openany]{book} % openany evita páginas en blanco entre capítulos
+
+\pagenumbering{arabic}
+\input{config/preamble}   % paquetes y estilo
+
+\raggedbottom
+
+\begin{document}
+
+% --- PORTADA ---
+%portada oficial:
+\includepdf[pages=1]{logos/Portada_TFG.pdf}
+
+
+% Front matter
+\frontmatter
+%\input{frontmatter/dedicatoria}
+%\input{frontmatter/agradecimientos}
+%\input{frontmatter/resumen}
+
+\tableofcontents        % Índice paginado
+%\listoffigures          % (opcional)
+%\listoftables           % (opcional)
+
+% Main matter en arábigos
+\mainmatter
+\input{capitulos/1.introduccion}
+\input{capitulos/2.marco_normativo}
+\input{capitulos/3.estado_del_arte}
+\input{capitulos/4.diseno_dpp}
+\input{capitulos/5.implementacion}
+\input{capitulos/6.analisis}
+\input{capitulos/7.conclusiones}
+\input{capitulos/8.planificacion_presupuesto}
+\input{capitulos/9.etica}
+\input{capitulos/10.ods}
+\input{capitulos/11.lineas_futuras}
+
+% Back matter
+\appendix
+\input{backmatter/anexos}
+\input{backmatter/glosario}
+\input{backmatter/abreviaturas}
+
+%Bibliografía IEEE desde Zotero
+\printbibliography[heading=bibintoc] % Incluido en el índice
+
+\includepdf[pages=1]{logos/Contraportada_TFG.pdf}
+
+\end{document}

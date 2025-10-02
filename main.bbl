@@ -1,0 +1,282 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ReglamentoUE2024a}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Doc ID: 32024R1781\\ Doc Sector: 3\\ Doc Title: Reglamento (UE) 2024/1781 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos sostenibles, se modifican la Directiva (UE) 2020/1828 y el Reglamento (UE) 2023/1542 y se deroga la Directiva 2009/125/CE (Texto pertinente a efectos del EEE)\\ Doc Type: R\\ Usr\_lan: es}
+      \field{langid}{spanish}
+      \field{title}{Reglamento - UE - 2024/1781 - ES - EUR-Lex}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\PC\\Zotero\\storage\\8I5AG8EY\\oj.html;C\:\\Users\\PC\\Zotero\\storage\\ZLNSQGXF\\oj.html
+      \endverb
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1781/oj/spa
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1781/oj/spa
+      \endverb
+    \endentry
+    \entry{ESPREnergyLabelling}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{{ESPR}} and {{Energy Labelling Working Plan}} 2025-30 | {{Environment}}}
+      \field{urlday}{19}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\QZLU2QC2\5f7ff5e2-ebe9-4bd4-a139-db881bd6398f_en.html
+      \endverb
+      \verb{urlraw}
+      \verb https://environment.ec.europa.eu/document/5f7ff5e2-ebe9-4bd4-a139-db881bd6398f_en
+      \endverb
+      \verb{url}
+      \verb https://environment.ec.europa.eu/document/5f7ff5e2-ebe9-4bd4-a139-db881bd6398f_en
+      \endverb
+    \endentry
+    \entry{BOEesDOUEL200280201Reglamento}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{{{BOE}}.Es - {{DOUE-L-2002-80201 Reglamento}} ({{CE}}) Nº 178/2002 Del {{Parlamento Europeo}} y Del {{Consejo}}, de 28 de Enero de 2002, Por El Que Se Establecen Los Principios y Los Requisitos Generales de La Legislación Alimentaria, Se Crea La {{Autoridad Europea}} de {{Seguridad Alimentaria}} y Se Fijan Procedimientos Relativos a La Seguridad Alimentaria.}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\PC\\Zotero\\storage\\5QGEFXB8\\doc.html;C\:\\Users\\PC\\Zotero\\storage\\QJFK6HSR\\doc.html;C\:\\Users\\PC\\Zotero\\storage\\X6XF2WD9\\doc.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/doc.php?id=DOUE-L-2002-80201
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/doc.php?id=DOUE-L-2002-80201
+      \endverb
+    \endentry
+    \entry{BOEA2014318RealDecreto}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{{{BOE-A-2014-318 Real Decreto}} 4/2014, de 10 de Enero, Por El Que Se Aprueba La Norma de Calidad Para La Carne, El Jamón, La Paleta y La Caña de Lomo Ibérico.}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\WSQYSKHG\act.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2014-318
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2014-318
+      \endverb
+    \endentry
+    \entry{ministeriodeagriculturapescayalimentacionespanaPliegoCondicionesDenominacion2022}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=23d2d36aba42be3f87e0f7b62242b447}{%
+           family={{Ministerio de Agricultura, Pesca y Alimentación (España)}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{23d2d36aba42be3f87e0f7b62242b447}
+      \strng{fullhash}{23d2d36aba42be3f87e0f7b62242b447}
+      \strng{bibnamehash}{23d2d36aba42be3f87e0f7b62242b447}
+      \strng{authorbibnamehash}{23d2d36aba42be3f87e0f7b62242b447}
+      \strng{authornamehash}{23d2d36aba42be3f87e0f7b62242b447}
+      \strng{authorfullhash}{23d2d36aba42be3f87e0f7b62242b447}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pliego de Condiciones de La {{Denominación}} de {{Origen Protegida}} «{{Jabugo}}»}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\6C5AWL2Q\jabugo_2022_07_07_pc_tcm30-640097.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mapa.gob.es/es/alimentacion/temas/calidad-diferenciada/dop-igp/detalle/jamon/dop_jabugo
+      \endverb
+      \verb{url}
+      \verb https://www.mapa.gob.es/es/alimentacion/temas/calidad-diferenciada/dop-igp/detalle/jamon/dop_jabugo
+      \endverb
+    \endentry
+    \entry{FarmForkStrategy}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The new “Farm to fork” strategy, to be proposed by the Commission as part of the Green Deal, will enable the EU to make a real contribution to...}
+      \field{langid}{english}
+      \field{title}{Farm to {{Fork Strategy}} - {{European Commission}}}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\PEMKTXJ6\farm-fork-strategy_en.html
+      \endverb
+      \verb{urlraw}
+      \verb https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en
+      \endverb
+      \verb{url}
+      \verb https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en
+      \endverb
+    \endentry
+    \entry{SistemaITACAAsociacion}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Organización Interprofesional Agroalimentaria (OIA), sin ánimo de lucro, en la que están representadas paritariamente organizaciones de la rama de la producción (ganaderos) y de la rama de la transformación (industriales) de cerdo ibérico.}
+      \field{langid}{spanish}
+      \field{shorttitle}{Sistema ÍTACA}
+      \field{title}{Sistema ÍTACA :: Asociación Interprofesional del Cerdo Ibérico}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\7J7AF3YN\sistema-de-identificacion-trazabilidad-y-calidad-itaca.html
+      \endverb
+      \verb{urlraw}
+      \verb https://iberico.com/trazabilidad/sistema-de-identificacion-trazabilidad-y-calidad-itaca/
+      \endverb
+      \verb{url}
+      \verb https://iberico.com/trazabilidad/sistema-de-identificacion-trazabilidad-y-calidad-itaca/
+      \endverb
+    \endentry
+    \entry{AppIbericoAsociacion}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Organización Interprofesional Agroalimentaria (OIA), sin ánimo de lucro, en la que están representadas paritariamente organizaciones de la rama de la producción (ganaderos) y de la rama de la transformación (industriales) de cerdo ibérico.}
+      \field{langid}{spanish}
+      \field{shorttitle}{App Ibérico}
+      \field{title}{App Ibérico :: Asociación Interprofesional del Cerdo Ibérico}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iberico.com/trazabilidad/app-iberico/
+      \endverb
+      \verb{url}
+      \verb https://iberico.com/trazabilidad/app-iberico/
+      \endverb
+    \endentry
+    \entry{PrecintosCategoriasAsociacion}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Organización Interprofesional Agroalimentaria (OIA), sin ánimo de lucro, en la que están representadas paritariamente organizaciones de la rama de la producción (ganaderos) y de la rama de la transformación (industriales) de cerdo ibérico.}
+      \field{langid}{spanish}
+      \field{shorttitle}{Precintos y Categorías}
+      \field{title}{Precintos y Categorías :: Asociación Interprofesional del Cerdo Ibérico}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\9G8YJTAE\precintos-y-categorias.html
+      \endverb
+      \verb{urlraw}
+      \verb https://iberico.com/trazabilidad/precintos-y-categorias/
+      \endverb
+      \verb{url}
+      \verb https://iberico.com/trazabilidad/precintos-y-categorias/
+      \endverb
+    \endentry
+    \entry{ConsumoRecuerdaQue2022}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Los productos de cerdo ibérico como jamones, paletas o cañas de lomo forman parte esencial de la gastronomía española, y la venta de los mismos, tanto en los establecimientos como en el comercio online, se multiplica en periodos como la Navidad. Con el objetivo de que las personas consumidoras y usuarias cuenten con plena garantía a la hora de comprar este tipo de producto, y para evitar cualquier tipo de confusión, existen diversos aspectos relativos a la norma de calidad (Real Decreto 4/2014) que deben tenerse en cuenta.}
+      \field{day}{11}
+      \field{month}{12}
+      \field{title}{Consumo Recuerda Que El Etiquetado y El Color Del Precinto Son Esenciales Para Identificar Un Jamón Ibérico}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\PC\Zotero\storage\CSVHSMXS\consumo_recuerda_que_el_etiquetado_y_el_color_del_precinto_son_esenciales_para.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.consumoresponde.es/actualidad/noticias/consumo_recuerda_que_el_etiquetado_y_el_color_del_precinto_son_esenciales_para
+      \endverb
+      \verb{url}
+      \verb https://www.consumoresponde.es/actualidad/noticias/consumo_recuerda_que_el_etiquetado_y_el_color_del_precinto_son_esenciales_para
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{acelerapyme_mejora_2023}
+  \missing{asociacion_interprofesional_del_cerdo_iberico_asici_despierta_2023}
+  \missing{bonet_preguntar_2023}
+  \missing{burgues_jamones_2015}
+  \missing{depares_china_2024}
+  \missing{european_parliament_directorate_general_for_parliamentary_research_services_digital_2024-1}
+  \missing{gs1_in_europe_gs1-standards-enabling-dpp_2024}
+  \missing{guardia_civil_incautadas_2023}
+  \missing{ministerio_de_agricultura_alimentacion_y_medio_ambiente_real_2014}
+  \missing{ministerio_de_agricultura_pesca_y_alimentacion_espana_pliego_2022-1}
+  \missing{motusic_understanding_2024}
+  \missing{noauthor_10_nodate}
+  \missing{noauthor_10_nodate-1}
+  \missing{noauthor_app_nodate}
+  \missing{noauthor_blockchain_nodate-2}
+  \missing{noauthor_boees_nodate-3}
+  \missing{noauthor_china_nodate}
+  \missing{noauthor_communication_2025}
+  \missing{noauthor_consumo_2022}
+  \missing{noauthor_decathlon_nodate}
+  \missing{noauthor_digital_nodate-1}
+  \missing{noauthor_directiva_nodate}
+  \missing{noauthor_etg_nodate}
+  \missing{noauthor_farm_nodate}
+  \missing{noauthor_how_nodate}
+  \missing{noauthor_huella_2025}
+  \missing{noauthor_iotaledgerhornet_nodate}
+  \missing{noauthor_jamon_2011}
+  \missing{noauthor_origintrail_nodate}
+  \missing{noauthor_plan_nodate}
+  \missing{noauthor_precintos_nodate}
+  \missing{noauthor_producir_nodate}
+  \missing{noauthor_product_nodate}
+  \missing{noauthor_que_nodate}
+  \missing{noauthor_sello_nodate}
+  \missing{noauthor_sistema_nodate}
+  \missing{noauthor_whats_2025}
+  \missing{pullo_integrating_2024}
+  \missing{pullo_integrating_2024-1}
+  \missing{rakic_first_nodate}
+  \missing{salaris_trazabilidad_2020}
+\endrefsection
+\endinput
+
