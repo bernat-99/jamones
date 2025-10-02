@@ -1,0 +1,27 @@
+\chapter*{RESUMEN}
+
+Este trabajo diseña y valida, a nivel de prototipo, un Pasaporte Digital de Producto (DPP) aplicable al jamón ibérico que integra estándares GS1/EPCIS, sensórica IoT y registro inmutable en IOTA Tangle para reforzar la trazabilidad, autenticidad y transparencia del sector. El enfoque se alinea con el marco europeo del DPP conforme a la regulación de diseño ecológico (ESPR), si bien su aplicación a alimentos no es aún obligatoria; por ello se plantea una arquitectura voluntaria y sectorialmente adaptada que pueda evolucionar sin bloqueo de proveedor y con compatibilidad futura.
+
+El objetivo general es demostrar la viabilidad técnica y el valor operativo de un DPP para piezas de jamón ibérico a lo largo de toda la cadena de valor, desde la cría en dehesa hasta el consumo, incluyendo circularidad posconsumo. Se persigue: (i) identificar los datos mínimos y ampliados del DPP (origen, alimentación, certificaciones, lotes, condiciones de proceso, auditorías), (ii) definir perfiles de acceso diferenciados (consumidor, operador, auditor/autoridad) con salvaguardas RGPD, (iii) justificar la elección de IOTA frente a alternativas DLT (Hyperledger Fabric, Ethereum, OriginTrail) y (iv) cuantificar costes y riesgos de adopción para pymes.
+
+La metodología combina análisis normativo-técnico, modelado GS1 (GTIN+lote, Digital Link y eventos EPCIS), simulación de datos de proceso y un piloto funcional sobre red de pruebas de IOTA con ingestión IoT. Se especifica un metamodelo de datos compatible con el Anexo de datos del DPP y con vocabularios GS1; se diseñan flujos EPCIS (Commissioning, Aggregation, Transformation y Object Events) y un visor web con QR para la capa pública, además de endpoints privados para inspección. El prototipo publica anclajes hash de paquetes EPCIS en Tangle (inmutabilidad y sellado temporal) y mantiene los datos detallados off-chain, optimizando coste, privacidad y rendimiento.
+
+El caso demostrador integra medidas representativas de la cadena del ibérico (pesos/mermas, tiempos de salazón y curado, temperatura-humedad en cámaras, certificaciones y precintos), junto con registros documentales (albaranes, controles veterinarios, lotes, auditorías). Para alimentación en cebo se prevé la referencia a piensos y cereales, con capacidad de enlazar DPP “anidados” de insumos cuando existan. La sensórica se aborda de forma pragmática: datos reales si están disponibles o simulados con perfiles de variación plausibles; el envío se realiza por lotes para tolerar conectividad intermitente y reducir consumo energético.
+
+Los resultados esperados muestran: (i) reducción del TIE (tiempo de investigación de expedientes) ante no conformidades, (ii) detección temprana de manipulaciones off-chain por desalineación entre EPCIS y anclajes, (iii) mejora de la confianza del consumidor y de la diferenciación internacional del producto, y (iv) costes operativos contenidos gracias a la ausencia de comisiones en IOTA y a una arquitectura híbrida on/off-chain. La comparación DLT evidencia que IOTA ofrece ventajas en entornos IoT y en escalabilidad sin tasas, mientras que plataformas permisionadas como Fabric encajan mejor en consorcios B2B cerrados; se motiva la elección de IOTA para un caso B2B2C con verificación pública.
+
+El análisis económico estima inversiones moderadas al aprovechar infraestructura ya existente (identificación GS1, QR, sensórica de cámaras), y desglosa CapEx/OpEx a tres años (software, operación de nodos ligeros, hosting, soporte y formación), con sensibilidad a volúmenes de piezas y a distintos niveles de automatización. Se discuten incentivos y modelos de adopción para pymes, así como fases graduales de despliegue que minimicen riesgo y eviten “vendor lock-in”.
+
+El trabajo reconoce limitaciones y traza líneas futuras: acceso a datos reales de productores, integración con sistemas DOP/IGP y con EBSI/credenciales verificables, evaluación de impacto ambiental con métricas comparables y posible extensión del DPP al conjunto de jamones curados. La propuesta se plantea como blueprint adaptable, técnicamente fundamentado y listo para evolucionar conforme se concrete el marco regulatorio del DPP en alimentos.
+
+\section*{Palabras clave}
+
+Pasaporte Digital de Producto, jamón ibérico, trazabilidad, autenticidad, GS1 Digital Link, EPCIS, IOTA Tangle, IoT, QR, circularidad, RGPD, costes de adopción.
+
+\section*{Códigos UNESCO}
+
+\noindent
+\begin{tabular}{ll}
+    120308 & CÓDIGO Y SISTEMAS DE CODIFICACIÓN \\
+    120318 & SISTEMAS DE INFORMACIÓN, DISEÑO COMPONENTES
+\end{tabular}
